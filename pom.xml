@@ -10,10 +10,10 @@
     </parent>
 
     <groupId>com.zouma</groupId>
-    <artifactId>ExcelExportTool</artifactId>
+    <artifactId>ExcelTool</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ExcelExportTool</name>
-    <description>ExcelExportTool</description>
+    <name>ExcelTool</name>
+    <description>ExcelTool</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
